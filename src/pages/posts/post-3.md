@@ -4,8 +4,8 @@ title: Mi tercer post en el blog
 author: Astro alumno
 description: "Tuve algunos problemas, pero preguntar en la comunidad me ayudó mucho."
 image:
-    url: "https://docs.astro.build/assets/rays.webp"
-    alt: "Miniatura de los rayos de Astro."
+  url: "https://docs.astro.build/assets/rays.webp"
+  alt: "Miniatura de los rayos de Astro."
 pubDate: 2022-07-15
 tags: ["astro", "aprender en público", "contratiempos", "comunidad"]
 ---
